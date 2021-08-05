@@ -17,11 +17,11 @@ The goals / steps of this project are the following:
 
 [//]: # (Image References)
 
-[image1]: ./examples/placeholder.png "Model Visualization"
-[image2]: ./examples/placeholder.png "Grayscaling"
-[image3]: ./examples/placeholder_small.png "Recovery Image"
-[image4]: ./examples/placeholder_small.png "Recovery Image"
-[image5]: ./examples/placeholder_small.png "Recovery Image"
+[image1]: ./examples/lenet.png "Model Visualization"
+[image2]: ./examples/center_1.jpg "Grayscaling"
+[image3]: ./examples/center_2021_06_24_15_13_45_196.jpg "Recovery Image"
+[image4]: ./examples/left_2021_06_24_15_13_45_196.jpg "Recovery Image"
+[image5]: ./examples/right_2021_06_24_15_13_45_196.jpg "Recovery Image"
 [image6]: ./examples/placeholder_small.png "Normal Image"
 [image7]: ./examples/placeholder_small.png "Flipped Image"
 
